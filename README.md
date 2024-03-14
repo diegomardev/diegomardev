@@ -1,8 +1,28 @@
-<h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegomardev&label=Profile%20views&color=0e75b6&style=flat" alt="diegomardev" /> </p>
+<h1 align="center"><b>Hi , I'm Daniel Ramon 'Rikudev' <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegomardev" alt="diegomardev" /></a> </p>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=New+Roman&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;Active+learner;Love+to+learn+new+stuff" alt="Typing SVG" /></a>
+</p>
+
+
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- A passionate Self-taught Front-end developer
+- Currently learning Web Development by Self
+- Personal website [link](https://www.rikudev.com)
+- I’m currently open for an Intern or a new job first opportunity on web development
+
+<br><br>
 
 - 🔭 I’m currently working on [my web diegomardev](https://diegomardev.com/)
 
