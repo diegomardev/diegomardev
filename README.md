@@ -17,8 +17,6 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Personal website [link](https://diegomardev.com/)
-- I’m currently open for an Intern or a new job first opportunity on web development
 - 🔭 I’m currently working on my web [diegomardev](https://diegomardev.com/)
 
 <h3 align="left">Languages and Tools:</h3>
