@@ -7,8 +7,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
@@ -19,7 +17,7 @@
 
 <div>
 	<a href="https://github.com/diegomardev/">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomardev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="diegomardev"/>
-		<img src="https://github-readme-stats.vercel.app/api?username=diegomardev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegomardev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="150"  alt="diegomardev"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=diegomardev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="150"/>
 	</a>
 </div>
